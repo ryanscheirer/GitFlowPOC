@@ -1,1 +1,1 @@
-Changed Text in file. Done changing. V1.0 release bug fix
+Changed Text in file. Done changing. V1.0 release bug fix. Feature after 1.1 release
